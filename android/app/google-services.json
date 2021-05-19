@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "541534769241",
+    "firebase_url": "https://fashinapp-def1c-default-rtdb.firebaseio.com",
+    "project_id": "fashinapp-def1c",
+    "storage_bucket": "fashinapp-def1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541534769241:android:d35ce6b53eb7a364b36148",
+        "android_client_info": {
+          "package_name": "com.ahercode.fashinapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541534769241-hld4kln1kmr5paee1feaqq97hk3hvjic.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ahercode.fashinapp",
+            "certificate_hash": "ed1f41de0bcbffdab111c5bbc0c65eeaf9dbed10"
+          }
+        },
+        {
+          "client_id": "541534769241-073k5e71jk6ggi037ok8isc91hgljhai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmwdzdrPwuxwXMKF0k_XQKqWMzRjV5H1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541534769241-073k5e71jk6ggi037ok8isc91hgljhai.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
